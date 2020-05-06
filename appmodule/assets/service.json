@@ -1,0 +1,42 @@
+{
+  "pessoa": [
+    {
+       "nome": "Mario Carlos chita",
+       "email": "mariochita1996@gmail.com",
+       "telefone": "921432654"
+    } ,
+    {
+      "nome": "Mario Carlos chita",
+      "email": "mariochita1996@gmail.com",
+      "telefone": "921727125"
+    } ,
+    {
+      "nome": "Mario Carlos chita",
+      "email": "mariochita1996@gmail.com",
+      "telefone": "982876345"
+    }
+   , {
+      "nome": "Mario Carlos chita",
+      "email": "mariochita1996@gmail.com",
+      "telefone": "987675321"
+    } ,
+     {
+      "nome": "Mario Carlos chita",
+      "email": "mariochita1996@gmail.com",
+      "telefone": "987675321"
+    } ,
+     {
+      "nome": "Mario Carlos chita",
+      "email": "mariochita1996@gmail.com",
+      "telefone": "987675321"
+    } ,
+     {
+      "nome": "Mario Carlos chita",
+      "email": "mariochita1996@gmail.com",
+      "telefone": "987675321"
+    }
+
+  ]
+
+
+}
